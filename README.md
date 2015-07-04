@@ -1,2 +1,6 @@
-# meteor-uikit-2
-uikit-2 meteor package.
+
+uikit-2 files packed for meteor.
+Uses the almost-flat style.
+
+To Install
+meteor add samdieck:uikit-2
