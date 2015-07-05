@@ -24,8 +24,8 @@ Package.onUse(function(api) {
   api.addFiles('uikit-2/fonts/fontawesome.otf', 'client');
 
   // Components
-  api.addFiles('uikit-2/css/datepicker.almost-flat.min.css', 'client');
-  api.addFiles('uikit-2/js/datepicker.min.js', 'client');
+  api.addFiles('uikit-2/css/components/datepicker.almost-flat.min.css', 'client');
+  api.addFiles('uikit-2/js/components/datepicker.min.js', 'client');
 
 });
 

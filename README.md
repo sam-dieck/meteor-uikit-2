@@ -6,5 +6,9 @@ The packages contains the core uikit plus the following components:
 
 * datepicker
 
+For more information:
+
+http://getuikit.com
+
 # Install
     meteor add samdieck:uikit-2
