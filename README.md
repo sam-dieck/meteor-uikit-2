@@ -5,6 +5,7 @@ Uses the almost-flat style.
 The packages contains the core uikit plus the following components:
 
 * datepicker
+* sticky
 
 For more information:
 

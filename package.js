@@ -1,6 +1,6 @@
 Package.describe({
   name: 'samdieck:uikit-2',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'uikit-2 package for meteor.',
   // URL to the Git repository containing the source code for this package.
@@ -26,6 +26,9 @@ Package.onUse(function(api) {
   // Components
   api.addFiles('uikit-2/css/components/datepicker.almost-flat.min.css', 'client');
   api.addFiles('uikit-2/js/components/datepicker.min.js', 'client');
+
+  api.addFiles('uikit-2/css/components/sticky.almost-flat.min.css', 'client');
+  api.addFiles('uikit-2/js/components/sticky.min.js', 'client');
 
 });
 
