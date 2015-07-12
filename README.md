@@ -6,6 +6,7 @@ The packages contains the core uikit plus the following components:
 
 * datepicker
 * sticky
+* notify
 
 For more information:
 
